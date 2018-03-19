@@ -277,7 +277,7 @@ var styles = {
     itemContainer: {
         boxSizing: 'border-box',
         backgroundColor: '#fff',
-        color: '#666666',
+        color: '#000',
         cursor: 'pointer',
         display: 'block',
         padding: '8px 10px'
