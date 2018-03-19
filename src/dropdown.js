@@ -182,7 +182,7 @@ class Dropdown extends Component<Props, State> {
     }
 }
 
-const focusColor = '#78c008';
+const focusColor = '#5BAAC8';
 
 const styles = {
     dropdownArrow: {
