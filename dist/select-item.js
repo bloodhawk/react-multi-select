@@ -204,7 +204,7 @@ var styles = {
         padding: '8px 10px'
     },
     itemContainerHover: {
-        backgroundColor: '#6EA9C5',
+        backgroundColor: '#5baac8',
         outline: 0
     },
     label: {
