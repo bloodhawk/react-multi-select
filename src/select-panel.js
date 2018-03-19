@@ -202,7 +202,7 @@ const styles = {
         outline: "none",
     },
     searchFocused: {
-        borderColor: "#78c008",
+        borderColor: "#5BAAC8",
     },
     searchContainer: {
         width: "100%",

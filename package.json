@@ -54,7 +54,8 @@
   },
   "dependencies": {
     "escope": "^3.6.0",
-    "fuzzy-match-utils": "^1.2.0"
+    "fuzzy-match-utils": "^1.2.0",
+    "react-inlinesvg": "^0.8.0"
   },
   "main": "dist/index.js",
   "engines": {
